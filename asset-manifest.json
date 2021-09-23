@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DashboardCovidTracker/static/css/main.afd7172b.chunk.css",
+    "main.js": "/DashboardCovidTracker/static/js/main.f1135d25.chunk.js",
+    "main.js.map": "/DashboardCovidTracker/static/js/main.f1135d25.chunk.js.map",
+    "runtime-main.js": "/DashboardCovidTracker/static/js/runtime-main.f32f34cf.js",
+    "runtime-main.js.map": "/DashboardCovidTracker/static/js/runtime-main.f32f34cf.js.map",
+    "static/css/2.818011ed.chunk.css": "/DashboardCovidTracker/static/css/2.818011ed.chunk.css",
+    "static/js/2.93bd0c93.chunk.js": "/DashboardCovidTracker/static/js/2.93bd0c93.chunk.js",
+    "static/js/2.93bd0c93.chunk.js.map": "/DashboardCovidTracker/static/js/2.93bd0c93.chunk.js.map",
+    "index.html": "/DashboardCovidTracker/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/DashboardCovidTracker/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/DashboardCovidTracker/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.93bd0c93.chunk.js.LICENSE.txt": "/DashboardCovidTracker/static/js/2.93bd0c93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f32f34cf.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.93bd0c93.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.f1135d25.chunk.js"
+  ]
+}
